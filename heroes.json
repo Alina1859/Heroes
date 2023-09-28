@@ -2,21 +2,21 @@
   "heroes": [
     {
       "id": 1,
-      "name": "Первый герой",
-      "description": "Первый герой в рейтинге!",
-      "element": "fire"
+      "name": "Бэтмен",
+      "description": "Я обязательно убью Джокера...",
+      "element": "earth"
     },
     {
       "id": 2,
-      "name": "Неизвестный герой",
-      "description": "Скрывающийся в тени",
-      "element": "wind"
+      "name": "Федор Двинятин",
+      "description": "А как же Серсо???",
+      "element": "water"
     },
     {
       "id": 3,
-      "name": "Морской герой",
-      "description": "Как аквамен, но не из DC",
-      "element": "water"
+      "name": "Убермаргинал",
+      "description": "Смотря какое определение",
+      "element": "wind"
     }
   ],
   "filters": [
