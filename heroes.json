@@ -1,12 +1,6 @@
 {
   "heroes": [
     {
-      "id": 1,
-      "name": "Бэтмен",
-      "description": "Я обязательно убью Джокера...",
-      "element": "earth"
-    },
-    {
       "id": 2,
       "name": "Федор Двинятин",
       "description": "А как же Серсо???",
@@ -17,6 +11,12 @@
       "name": "Убермаргинал",
       "description": "Смотря какое определение",
       "element": "wind"
+    },
+    {
+      "id": "0b7bda1c-20f7-4eb5-be40-1f142f7e5722",
+      "name": "Гоблин",
+      "description": "Крем Сэндвич, добрый день!",
+      "element": "fire"
     }
   ],
   "filters": [
