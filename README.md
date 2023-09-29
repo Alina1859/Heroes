@@ -23,10 +23,10 @@ You can add new hero.
 <img src="./Heroes-New.gif" width="80%"></p>
 
 You can delete hero.
-<img src="./Heroes-Delete.gif" width="80%"></p>
+<img src="./Heroes-Delete.gif" width="90%"></p>
 
 You can filter heroes!
-<img src="./Heroes-Filters.gif" width="80%"></p>
+<img src="./Heroes-Filters.gif" width="90%"></p>
 
 
 ## Technologies in the project
