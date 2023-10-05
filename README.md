@@ -6,13 +6,11 @@
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&color=lightblue)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=blue)
 ![](https://img.shields.io/badge/Style-SCSS-informational?style=flat&logo=sass&color=pink)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&color=red) ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&color=%234a4a4a) ![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&logo=vercel&color=black)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&color=red) ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&color=%234a4a4a)
 
 ## Description
 
 **Easy app with Redux**
-
-🌱 [TAP TO SEE Heroes APP](https://heroes-ochre.vercel.app/)
 
 <p align="center">
 
